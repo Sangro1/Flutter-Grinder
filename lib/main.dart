@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:grinder/pages/account.dart';
-import 'package:grinder/pages/browse.dart';
 
 import 'Register.dart';
-import 'home.dart';
 
 void main() {
   runApp(const MyApp(
